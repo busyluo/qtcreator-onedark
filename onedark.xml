@@ -3,13 +3,13 @@
   <style name="Text" foreground="#cecece" background="#282c34"/>
   <style name="Link" foreground="#409090"/>
   <style name="Selection" foreground="#ffffff" background="#4e4e8f"/>
-  <style name="LineNumber" foreground="#8b8bcd" background="#2e2e2e"/>
+  <style name="LineNumber" foreground="#5c6370" background="#282c34"/>
   <style name="SearchResult" foreground="#000000" background="#2d4c95"/>
   <style name="SearchScope" foreground="#000000" background="#f8fafc"/>
   <style name="Parentheses" foreground="#ffff00" background="#4e4e8f"/>
   <style name="ParenthesesMismatch" background="#404040"/>
   <style name="AutoComplete" foreground="#ffff00" background="#4e4e8f"/>
-  <style name="CurrentLine" foreground="#000000" background="#2d2d32"/>
+  <style name="CurrentLine" foreground="#000000" background="#363A4F"/>
   <style name="CurrentLineNumber" foreground="#a7a7f5" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#616161"/>
   <style name="Occurrences.Unused" foreground="#6f672a" underlineStyle="SingleUnderline"/>
