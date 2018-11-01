@@ -9,23 +9,24 @@
   <style name="Parentheses" foreground="#ffff00" background="#4e4e8f"/>
   <style name="ParenthesesMismatch" background="#404040"/>
   <style name="AutoComplete" foreground="#ffff00" background="#4e4e8f"/>
-  <style name="CurrentLine" foreground="#000000" background="#363A4F"/>
+  <style name="CurrentLine" foreground="#000000" background="#363a4f"/>
   <style name="CurrentLineNumber" foreground="#a7a7f5" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#616161"/>
   <style name="Occurrences.Unused" foreground="#6f672a" underlineStyle="SingleUnderline"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#d19a66"/>
-  <style name="String" foreground="#98c379"/>
-  <style name="Type" foreground="#8587e5"/>
+  <style name="String" foreground="#d0a764"/>
+  <style name="Type" foreground="#6bdc8b"/>
   <style name="Local"/>
   <style name="Global"/>
   <style name="Field" bold="true" italic="true"/>
-  <style name="Static" foreground="#8587e5"/>
+  <style name="Static" foreground="#6d70bd"/>
   <style name="VirtualMethod" italic="true"/>
   <style name="Function" foreground="#61afef"/>
   <style name="Keyword" foreground="#c678dd"/>
   <style name="PrimitiveType" foreground="#e575a7"/>
   <style name="Operator" foreground="#cfbfad"/>
+  <style name="Overloaded Operator"/>
   <style name="Preprocessor" foreground="#409090"/>
   <style name="Label" foreground="#e76000"/>
   <style name="Comment" foreground="#5c6370"/>
@@ -60,5 +61,7 @@
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
   <style name="Declaration"/>
-  <style name="C_OUTPUT_ARGUMENT"/>
+  <style name="FunctionDefinition"/>
+  <style name="OutputArgument" italic="true"/>
+  <style name="LastStyleSentinel"/>
 </style-scheme>
