@@ -5,9 +5,9 @@ Installation
 ------------
 Installation on Linux/Mac:
 
-    curl https://raw.githubusercontent.com/busyluo/qtcreator-custom/master/setup.sh -sSf | sh
+    curl https://raw.githubusercontent.com/busyluo/qtcreator-onedark/master/setup.sh -sSf | sh
 
 
 Screenshots
 -----------
-![Dark version](https://raw.github.com/busyluo/qtcreator-custom/master/onedark_preview.png)  
+![Dark version](https://raw.github.com/busyluo/qtcreator-ondark/master/onedark_preview.png)  
