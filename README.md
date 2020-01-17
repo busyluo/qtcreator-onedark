@@ -10,4 +10,4 @@ Installation on Linux/Mac:
 
 Screenshots
 -----------
-![Dark version](https://raw.github.com/busyluo/qtcreator-ondark/master/onedark_preview.png)  
+![Dark version](https://raw.github.com/busyluo/qtcreator-onedark/master/onedark_preview.png)  
